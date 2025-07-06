@@ -1,0 +1,20 @@
+
+terminal 01 cmd administrador
+activar mongo con mongod.exe
+ir a 
+mongodb/bin
+cd C:\Users\PC\Desktop\Cursos-online\FullStack\modulo-7\mongodb\bin
+y correr:
+mongod.exe --dbpath=C:\Users\PC\Desktop\Cursos-online\FullStack\modulo-7\mongodb\data\db
+
+terminal 02
+Accesar a la base datos con el shell
+cd C:\Users\PC\Desktop\Cursos-online\FullStack\modulo-7\mongodb\bin
+mongosh
+
+terminal 03 visual code bash
+
+activar el servidor node express
+npm start
+
+
